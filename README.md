@@ -1,4 +1,4 @@
-# ResNet-architectures-comparassion
+# ResNet architectures comparassion
 Comparison of classical recurrent neural network (ResNet) architectures:
 
 > - ## ResNet-18
