@@ -1,5 +1,5 @@
 # ResNet-architectures-comparassion
-Comparison of classical recurrent neural network (ResNet) architectures
+Comparison of classical recurrent neural network (ResNet) architectures:
 
 > - ## ResNet-18
 > - ## ResNet-34
@@ -11,6 +11,6 @@ Comparison of classical recurrent neural network (ResNet) architectures
 
 ![CIFAR-10 Dataset](https://production-media.paperswithcode.com/datasets/4fdf2b82-2bc3-4f97-ba51-400322b228b1.png)
 
-> ### Presenta: Gabriel Carcedo Rodríguez
+> ### Presented by: Gabriel Carcedo Rodríguez
 > ### Posgrado en Ciencias en Ingeniería de la Computación
 > ### Universidad Nacional Autónoma de México
